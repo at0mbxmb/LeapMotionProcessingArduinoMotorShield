@@ -1,5 +1,5 @@
 /*
- * Leap Motion -> Processing -> Arduino -> Motor
+ * Leap Motion -> Processing -> Arduino -> Servo
  *
  * Michelle Leonhart 2014-02-04
  * @at0mbmxb www.tinwhiskers.net
